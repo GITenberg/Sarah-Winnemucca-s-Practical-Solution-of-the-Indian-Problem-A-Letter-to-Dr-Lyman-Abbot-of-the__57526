@@ -1,5 +1,8 @@
 _repo: Sarah-Winnemucca-s-Practical-Solution-of-the-Indian-Problem-A-Letter-to-Dr-Lyman-Abbot-of-the__57526
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57526-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Peabody, Elizabeth Palmer
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '49443'
     url: http://www.gutenberg.org/2009/agents/49443
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57526#Sarah-Winnemucca-s-Practical-Solution-of-the-Indian-Problem-A-Letter-to-Dr-Lyman-Abbot-of-the_
 gutenberg_issued: '2018-07-17'
 gutenberg_type: Text
 identifiers:
